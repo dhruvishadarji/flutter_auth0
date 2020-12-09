@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="com_auth0_client_id">eCbu6nNgCY8hK6hHeN1JHIbyb8nBG80d</string>
+  <string name="com_auth0_domain">dev-xx8wu525.us.auth0.com</string>
+  <string name="com_auth0_scheme">com.example.googlelogin</string>
+</resources>
